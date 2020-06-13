@@ -1,2 +1,2 @@
-# starnetlith
+# starnetlight
 solar panel, sale, 
